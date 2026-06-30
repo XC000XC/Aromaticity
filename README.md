@@ -8,7 +8,7 @@
 本仓库用于公开“模型芳香性”相关的研究论文、实验记录与配套资料。
 
 ## 作者信息
-- 作者：零零（用于期刊发表的真名：ZhiZhanXu）
+- 作者：XC（用于期刊发表的真名：ZhiZhanXu）
 - 身份：独立学者，ASRI 框架提出者，芳香性概念提出者
 - 研究方向：人工智能、多智能体辩论、大语言模型认知评估、结构性测度框架
 
@@ -38,7 +38,7 @@ Aromaticity of Large Language Models: Stable Cognitive Tendencies and the Reboun
 This repository is used to publicly share research papers, experimental records, and related materials concerning Model Aromaticity.
 
 ## Author Information
-- Author: ZeroZero (Real name used for journal publication: ZhiZhanXu)
+- Author: XC (Real name used for journal publication: ZhiZhanXu)
 - Identity: Independent Scholar, Proposer of the ASRI Framework, Proposer of the Aromaticity Concept
 - Research Interests: Artificial Intelligence, Multi-Agent Debate, Cognitive Assessment of LLMs, Structural Measurement Frameworks
 
